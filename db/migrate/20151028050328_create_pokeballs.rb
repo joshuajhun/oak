@@ -6,3 +6,5 @@ class CreatePokeballs < ActiveRecord::Migration
     end
   end
 end
+
+dfad
